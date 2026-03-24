@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Dhaka</h1>
-<h3 align="center">As a 20-year-old Computer Science and Engineering student at Bennett University, I'm deeply passionate about leveraging technology to drive meaningful change. Proficient in Python, MySQL, Java, HTML, CSS, and JavaScript, I'm committed to staying at the forefront of technological advancements. Currently pursuing my B.Tech degree, I actively seek opportunities to apply my skills effectively and contribute to real-world projects.</h3>
+<h3 align="center">As a 21-year-old Computer Science and Engineering student at Bennett University, I'm deeply passionate about leveraging technology to drive meaningful change. Proficient in Python, MySQL, Java, HTML, CSS, and JavaScript, I'm committed to staying at the forefront of technological advancements. Currently pursuing my B.Tech degree, I actively seek opportunities to apply my skills effectively and contribute to real-world projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhakasahab&label=Profile%20views&color=0e75b6&style=flat" alt="dhakasahab" /> </p>
 
