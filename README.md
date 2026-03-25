@@ -9,12 +9,6 @@ With strong foundations in Python, SQL, and problem-solving, I'm actively explor
   <img src="https://komarev.com/ghpvc/?username=yashvardhandhaka&label=Profile%20views&color=0e75b6&style=flat" alt="yashvardhandhaka" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashvardhandhaka" alt="yashvardhandhaka" />
-  </a> 
-</p>
-
 - 🔭 I’m currently exploring **Data Science, Machine Learning & ML Ops**
 
 - 🌱 I’m currently learning **Data Analysis, Statistics, and Advanced Data Structures**
