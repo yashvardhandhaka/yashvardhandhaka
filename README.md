@@ -21,7 +21,7 @@ With strong foundations in Python, SQL, and problem-solving, I'm actively explor
 
 - 👯 I’m looking to collaborate on **Data Science & ML Projects**
 
-- 💬 Ask me about **Python, SQL, Machine Learning, and Data Analysis**
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analysis, Power BI**
 
 - 📫 How to reach me **yashvardhandhaka777@gmail.com**
 
@@ -59,19 +59,10 @@ With strong foundations in Python, SQL, and problem-solving, I'm actively explor
   <a href="https://seaborn.pydata.org/" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> 
   </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
   </a> 
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhandhaka&show_icons=true&locale=en&layout=compact" alt="yashvardhandhaka" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvardhandhaka&show_icons=true&locale=en" alt="yashvardhandhaka" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvardhandhaka" alt="yashvardhandhaka" />
 </p>
